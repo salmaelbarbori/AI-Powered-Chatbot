@@ -1,0 +1,2 @@
+input, output
+"I want to select all products from product table", "SELECT * FROM product"
